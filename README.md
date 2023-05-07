@@ -83,6 +83,11 @@ git clone https://github.com/zsh-users/zsh-completions ~/.oh-my-zsh/custom/plugi
 git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
 ```
 
+```bash
+bash -c "$(wget -qO- https://git.io/vQgMr)"
+# Gosh : themes for terminal : dracula 53
+```
+
 ## AI Library Install
 
 ### Anaconda
